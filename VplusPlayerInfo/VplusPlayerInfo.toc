@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: VplusPlayerInfo v0.1
+## Notes: |cFFFFD100by Wayborn|r|n|nAddon displays the character's current attack speed.|n|nMay create a high load on the client and/or server. Not recommended for use, test only.
+## Author: Wayborn
+## Version: 0.1
+
+VplusPlayerInfo.lua
